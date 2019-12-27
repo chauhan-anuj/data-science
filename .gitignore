@@ -1,5 +1,6 @@
 
 .DS_Store
+.ipynb_checkpoints
 NaturalLanguageProcessing/.DS_Store
 NaturalLanguageProcessing/.ipynb_checkpoints/Basic Natural Language Processing-checkpoint.ipynb
 NaturalLanguageProcessing/.ipynb_checkpoints/NLP using spaCy-checkpoint.ipynb
